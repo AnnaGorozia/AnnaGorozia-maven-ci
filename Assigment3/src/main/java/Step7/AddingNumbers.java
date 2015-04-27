@@ -3,7 +3,9 @@ package Step7;
 public class AddingNumbers {
 	private int res;
 	
-	public AddingNumbers(int left, int right){
+	public AddingNumbers(){}
+	
+	public void setNumbers(int left, int right){
 		this.res = left + right;
 	}
 	
