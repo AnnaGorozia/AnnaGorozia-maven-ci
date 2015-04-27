@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <project name="AnnaGorozia-maven-ci" default="test">
+   <target name="test"> </target>
+</project>
